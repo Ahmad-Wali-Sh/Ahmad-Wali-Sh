@@ -1,12 +1,13 @@
 ## Introduction
 
-A passionate full stack developer with expertise in Django, Django Rest Framework, React, Tailwind CSS, React Query, React Suite, React MUI, React Bootstrap, SASS, LESS, PostgreSQL, and algorithms in JavaScript and Python. I love building robust and scalable web applications that provide great user experiences.
+A passionate full stack developer with expertise in Django, Django Rest Framework, React, React Native, Tailwind CSS, React Query, React Suite, React MUI, React Bootstrap, SASS, LESS, PostgreSQL, and algorithms in JavaScript and Python. I love building robust and scalable web applications that provide great user experiences.
 
 ## Skills
 
-- **Backend Development**: Django, Django Rest Framework
+- **Backend Development**: Django, Django Rest Framework, Node js, Express js
 - **Frontend Development**: React
-- **CSS Frameworks**: Tailwind CSS
+- **Mobile Development**: React Native
+- **CSS Frameworks**: Tailwind CSS, UnoCSS, Bootstrap
 - **State Management**: React Query, Zustand, Redux
 - **UI Libraries**: React MUI, Daisy UI, React Suite, Prime React
 - **CSS Preprocessors**: SASS, LESS
@@ -20,6 +21,11 @@ Here are some of the projects I have worked on:
 1. Project 1: Pharmacy Platform
    - Description: A Pharmacy Solution Platform. 
    - Technologies used: React as Frontend, Django Rest Framework as backend with PostgreSQL database.
+  
+2. Project 2: Mikrogate ISP platform
+   - Description: An internal streamlining tasks, contracts and finance progression in real-time for customers information additional to security basis.
+   - Technologies used: React as Frontend, Django Rest Framework as backend with PostgreSQL database, bootstrap as solid css framework, node js server 
+      for socket.io real-time integrations additional to variety libraries from React to Django.
 
 
 Feel free to explore my GitHub repositories for more projects.
