@@ -22,11 +22,11 @@ React, Django, and Express.
 **Cloud:** AWS (learning), Vercel, Railway  
 
 ## Featured Projects
-- 🤳 [Showpage](link) — Show Yourself Elegantly, Easly | Mutiple Themed Portfolio Builder For Everyone With Next.js
+- 💊 [Pharmacy System](link) — Full Pharmacy Industry Management Platform - React · Django
+- 👔 [Tailor System](link) — Order management platform for tailors - React · Django
+- 🤳 [Showpage](link) — Show Yourself Elegantly | Mutiple Themed Portfolio Builder For Everyone · Next.js
+- ☕ [Cafe Dashboard](link) — Resturant Menu Management · React and Supabase
 - 🖥  [Browser OS](link) — A Full OS experience in React 
-- ☕ [Cafe Dashboard](link) — Resturant Menu Management with Reaact and Supabase
-- 👔 [Tailor System](link) — Full Order management platform for tailors
-- 💊 [Pharmacy System](link) — Medicine inventory, HR, Finance and billing management
 
 ## Hire Me
 - 📧 ahmadwalisharifybtc@gmail.com
