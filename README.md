@@ -1,6 +1,5 @@
-Full Stack Engineer based in Afghanistan 🇦🇫 <br />
-5+ years building real-world systems with 
-React, Django, and Express.
+Full Stack Engineer · React · Django · Express · Next.js  <br />
+I build real-world systems: SaaS platforms, management tools, and browser experiences. Open to remote teams.
 
 ---
 
